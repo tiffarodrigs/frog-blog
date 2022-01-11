@@ -1,8 +1,33 @@
-.infofrogs {
+/*.infofrogs {
   color: brown;
 }
 
 .infome {
   font-style: italic;
   font-size: x-large;
+}
+*/
+.darkBg
+{
+  background-color: black;
+  color: white;
+}
+.lightBg
+{
+  background-color: white;
+  color: black;
+}
+ .borderHl{
+  border: solid 2px black;
+  color: rgb(233, 233, 27);
+
+} 
+.highlight {
+  background-color: yellow;
+  border:  solid 2px darkred;
+}
+
+#hide
+{
+  display: none;
 }
